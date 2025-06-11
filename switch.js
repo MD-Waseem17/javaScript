@@ -9,5 +9,6 @@
         console.log("wednesday");
         break;
       case 4:
-        console.log("another"):        
+        console.log("another");
+           
  }

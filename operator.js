@@ -10,8 +10,8 @@ console.log(a * b) // multiply
 console.log(a / b) // divide
 console.log(a % b) // modulus (reminder)
 console.Log(a ** b) // a power b
-console.log(a ++ b) // increment by +1
-console.log(a -- b) // increment by -1
+console.log(a ++ ) // increment by +1
+console.log(a -- ) // increment by -1
 
 // 2. assignmet.operators
 let c = 10;
